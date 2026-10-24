@@ -1,0 +1,12 @@
+node_modules/
+dist/
+site/dist/
+.DS_Store
+*.log
+docs/screenshots/
+test-results/
+playwright-report/
+__pycache__/
+projects/
+work/
+samples/**/review/
